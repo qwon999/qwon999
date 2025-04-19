@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">It From Bit</h1>
 
-<!--
-**qwon999/qwon999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **2025.01 ~**  
+  SSAFY 13기  
+- 🧪 **2023.03 ~ 2023.08**  
+  KIST 양자정보연구단 인턴  
+- 🎓 **2018.03 ~ 2024.08**  
+  성균관대학교 화학과 / 전자전기공학부  
+
+---
+
+### 🌟 Featured Projects
+
+- 📖 **Trendic (개발 중)**  
+  일상 속 신조어와 유행어를 수집·정리하는 오픈 사전 플랫폼.  
+  Spring Boot + React 기반으로 개발 중이며, 사용자 참여형 사전 구조 설계.  
+  Google OAuth 로그인, PostgreSQL 기반 데이터 관리, Koyeb를 통한 배포 예정.
+
+- 🔬 **Graduation Thesis: 양자 상태의 빛을 이용한 투과율 측정 정확도 향상**  
+  몬테카를로 시뮬레이션 및 미분방정식 수치해석을 통해, 양자광 상태 기반 투과율 측정의 정확도 향상 가능성을 검증한 연구.  
+  (2024년 화학과 졸업논문)
+
+- ⚛️ **KIST Internship: Single Qubit 최적 제어 연구**  
+  노이즈 환경에서 싱글 큐비트가 목표 상태에 도달하는 최단 경로를 A* 알고리즘으로 최적화.  
+  도달 시간 110μs → 48μs로 단축, Python 기반 시뮬레이션 수행.  
+  (2023년 KIST 양자정보연구단 인턴십)
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verilog-3E3E3E?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+</p>
+
+---
+
+### 📊 BOJ Stats
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qwon99)](https://solved.ac/qwon99)
+
+---
+
+### 📫 Contact
+
+- 📧 Email: hqwon99@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qwon999&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwon999&layout=compact&theme=tokyonight" />
+</p>
